@@ -1,0 +1,75 @@
+/*HOJA DE ESTILOS*/
+
+body{
+    background-color: #393E41;
+}
+
+h1{
+    color: #d3d0cb;
+    font-size: 50px;font-family: 'Courier New', Courier, monospace;
+    border: 5px solid #e7e5df;
+    margin: auto;
+}
+
+h2{
+    color: #d3d0cb;
+    font-size: 35px;font-family: 'Courier New', Courier, monospace;
+    padding: 2px;
+    border: 5px solid #e7e5df;
+    
+    
+}
+
+h3{
+    color: #d3d0cb;
+    position: center;
+    font-size: 25px;font-family: 'Courier New', Courier, monospace;
+    
+    /*padding: 5px;
+    border: 3px solid #e7e5df;*/
+}
+
+p{
+    color: #d3d0cb;
+    font-size: 20px;font-family: 'Courier New', Courier, monospace;
+}
+
+table{
+      width: 100%;
+      top: auto;
+      border: 5px solid #d3d0cb;  
+}
+th{
+    color: #d3d0cb;
+}
+
+table, th, td{
+    align-items: center;
+    align-content: center;
+}
+
+/*a{
+    color: #393E41;
+    position: center;
+    font-size: 25px;font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+    border: 3px solid #2c2c2b;
+    background-color: #d3d0cb;
+}*/
+a:visited{
+    color: #d3d0cb;
+    position: center;
+    font-size: 30px;font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    /*border: 3px solid #2c2c2b;*/
+    background-color: #d3d0cb;
+}
+a:hover{
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+a:active{
+    color: #393E41;
+    text-decoration: underline;
+}
